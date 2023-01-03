@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-SwiftQA/Pods-SwiftQA-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CarbonKit/CarbonKit.framework
+${BUILT_PRODUCTS_DIR}/SideMenu/SideMenu.framework
